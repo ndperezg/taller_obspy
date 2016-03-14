@@ -1,0 +1,11 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introducción}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{¿Qué es Obspy?}{3}{0}{1}
+\beamer@sectionintoc {2}{Módulos y funciones principales de Obspy}{12}{0}{2}
+\beamer@subsectionintoc {2}{1}{UTCDateTime}{12}{0}{2}
+\beamer@subsectionintoc {2}{2}{Sismogramas}{14}{0}{2}
+\beamer@subsectionintoc {2}{3}{Descarga de datos sismológicos}{19}{0}{2}
+\beamer@subsectionintoc {2}{4}{Inventarios y Catálogos}{25}{0}{2}
+\beamer@sectionintoc {3}{Aplicaciones}{29}{0}{3}
+\beamer@subsectionintoc {3}{1}{Respuesta Instrumental}{29}{0}{3}

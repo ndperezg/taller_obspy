@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introducción}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Antes de comenzar}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{¿Qué es Python?}{12}{0}{1}
+\beamer@sectionintoc {2}{Variables, expresiones y declaraciones}{19}{0}{2}
+\beamer@subsectionintoc {2}{1}{Valores y Tipos}{19}{0}{2}
+\beamer@subsectionintoc {2}{2}{Variables}{20}{0}{2}
+\beamer@subsectionintoc {2}{3}{Listas}{23}{0}{2}
+\beamer@sectionintoc {3}{Funciones Integradas}{24}{0}{3}
+\beamer@sectionintoc {4}{Condicionales y Ciclos}{26}{0}{4}
+\beamer@subsectionintoc {4}{1}{Condicionales}{26}{0}{4}
+\beamer@subsectionintoc {4}{2}{Ciclos}{27}{0}{4}
