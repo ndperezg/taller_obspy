@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introducción}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Prerrequisitos}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{¿Qué es SEISAN?}{6}{0}{1}
+\beamer@sectionintoc {2}{Estructura de SEISAN}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{Estructura básica}{13}{0}{2}
+\beamer@subsectionintoc {2}{2}{WAV}{16}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{1}{{\tt mulplt}}{24}{0}{2}
+\beamer@subsectionintoc {2}{3}{REA}{26}{0}{2}

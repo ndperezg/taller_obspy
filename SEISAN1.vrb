@@ -1,0 +1,8 @@
+\frametitle{REA: comando {\tt eev}}
+Con el fin de acceder a la base de datos se utiliza el comando {\tt eev}. Es un entorno que permite gestionar facilmente la base de datos de s-files.\\
+{\scriptsize \tt
+\$eev 20161121 BDRSN\\
+2016 11 Reading events from base OPERA  3127\\
+\# 2238 21 Nov 2016 00:19 23  L   7.216 -76.471 12.6    0.6 2.4LRSN   13  ?\\
+\# 2235 21 Nov 2016 00:49 14  L   6.759 -73.132145.1    0.3 1.7LRSN    6  ?\\
+}
