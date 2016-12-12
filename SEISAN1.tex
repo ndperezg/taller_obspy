@@ -86,9 +86,20 @@ rm -r  & Borra un directorio & rm -r /bd/seismo\\
 \hline 
 pwd & Muestra la ruta del directorio actual & pwd \\ 
 \hline
+ssh & Conección a un servidor remoto & ssh -X seismo@...\\
+\hline
 \end{tabular}}
 \end{table} 
 \end{frame}
+
+\begin{frame}
+Ingresemos a la terminal ...\\
+
+\begin{figure}
+\includegraphics[scale=0.5]{terminal.png}
+\end{figure}
+\end{frame}
+
 \subsection{¿Qué es SEISAN?}
 \begin{frame}{¿Qué es SEISAN?}
 \begin{figure}
@@ -182,12 +193,39 @@ Los metadatos básicos de una serie de tiempo en formato miniSEED son:
 
 \subsubsection{{\tt mulplt}}
 \begin{frame}{WAV: comando {\tt mulplt}}
+Este es el comando que permite la visualización de formas de onda en SEISAN.
 \begin{figure}
-\includegraphics[scale=0.15]{TRAZA.png}
+\includegraphics[scale=0.13]{TRAZA.png}
 \end{figure}
+
 Las archivos de formas de onda tienen nombres como {\tt 2014-06-25-0726-38M.COL\_\_\_256}.
 \end{frame}
 
+\begin{frame}{Opciones en {\tt mulplt}}
+El comando {\tt mulplt} tiene diferentes opciones interactivas que se pueden observar como botones desde la parte superior de las ventanas
+%\begin{figure}
+%\includegraphics[scale=0.3]{menu.png}
+%\end{figure}
+\begin{table} 
+\begin{tabular}{|c|c|}
+\hline 
+{\bf Comando} & {\bf Descripción} \\ 
+\hline 
+{\tt q} & Salir de {\tt mulplt} \\ 
+\hline 
+\keys{\tab} & Cambiar páginas de canales \\ 
+\hline 
+{\tt f} & Pasar a la siguiente forma de onda  \\ 
+\hline 
+{\tt B} & Forma de onda anterior \\ 
+\hline 
+{\tt o} & Muestra menú de canales\\ 
+\hline 
+{\tt r} & refresca la vista de multicanales \\ 
+\hline 
+\end{tabular}
+\end{table}
+\end{frame}
 
 \begin{frame}{WAV: comando {\tt dirf}}
 El comando {\tt dirf} crea una lista numerada de archivos:\\

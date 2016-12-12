@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  11 DEC 2016 13:10
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  11 DEC 2016 21:53
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1687,31 +1687,33 @@ LaTeX Info: Redefining \% on input line 2.
 ] [4
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 91.
+LaTeX Font Info:    Try loading font information for U+msa on input line 93.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 91.
+LaTeX Font Info:    Try loading font information for U+msb on input line 93.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (6.80522pt too wide) in paragraph at lines 91--91
+Overfull \hbox (7.1519pt too wide) in paragraph at lines 93--93
  [] 
  []
 
 [5
 
 ]
+File: terminal.png Graphic file (type QTm)
+ <use  "terminal.png" > [6
+
+]
 File: seisan_portada.png Graphic file (type QTm)
  <use  "seisan_portada.png" >
-Overfull \vbox (11.58147pt too high) detected at line 97
+Overfull \vbox (11.58147pt too high) detected at line 108
  []
 
-[6
-
-] [7
+[7
 
 ] [8
 
@@ -1723,29 +1725,29 @@ Overfull \vbox (11.58147pt too high) detected at line 97
 
 ] [12
 
+] [13
+
 ]
 File: estructura_seisan_1.png Graphic file (type QTm)
  <use  "estructura_seisan_1.png" >
-Overfull \hbox (3.79578pt too wide) in paragraph at lines 126--126
+Overfull \hbox (3.79578pt too wide) in paragraph at lines 137--137
  [] 
  []
 
-[13
+[14
 
 ]
 File: estructura_seisan2.png Graphic file (type QTm)
- <use  "estructura_seisan2.png" > [14
+ <use  "estructura_seisan2.png" > [15
 
 ]
 File: estructura_seisan3.png Graphic file (type QTm)
  <use  "estructura_seisan3.png" >
-[15
+[16
 
 ]
 File: sismo_RUS.png Graphic file (type QTm)
- <use  "sismo_RUS.png" > [16
-
-] [17
+ <use  "sismo_RUS.png" > [17
 
 ] [18
 
@@ -1759,12 +1761,20 @@ File: sismo_RUS.png Graphic file (type QTm)
 
 ] [23
 
+] [24
+
 ]
 File: TRAZA.png Graphic file (type QTm)
 
-<use  "TRAZA.png" > [24
+<use  "TRAZA.png" >
+Overfull \vbox (1.28358pt too high) detected at line 202
+ []
 
-] [25
+[25
+
+] [26
+
+] [27
 
 ]
 \openout4 = `SEISAN1.vrb'.
@@ -1796,19 +1806,19 @@ chr(125) + \"\"; f.write(\"\\makeatletter\" + macro + \"\\makeatother\\endinput
 
 
 (./SEISAN1.mintedmd5)
-(./_minted-SEISAN1/fe05bf4d546e3a7d626dd9f01e8b0b2beb84fc76.pygtex)) [26
+(./_minted-SEISAN1/fe05bf4d546e3a7d626dd9f01e8b0b2beb84fc76.pygtex)) [28
 
 ]
 File: sfile.png Graphic file (type QTm)
 
-<use  "sfile.png" > [27
+<use  "sfile.png" > [29
 
 ]
 \openout4 = `SEISAN1.vrb'.
 
- (./SEISAN1.vrb) [28
+ (./SEISAN1.vrb) [30
 
-] [29
+] [31
 
 ]
 \tf@nav=\write9
@@ -1826,23 +1836,23 @@ runsystem(rm "SEISAN1.mintedmd5")...executed.
 
 runsystem(rm "SEISAN1.pyg")...executed.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 442.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 442.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 480.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 480.
  (./SEISAN1.aux
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 442.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 442.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 442.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 480.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 480.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 480.
  ) 
 Here is how much of TeX's memory you used:
- 41186 strings out of 493591
- 801464 string characters out of 6143546
- 906573 words of memory out of 5000000
- 43871 multiletter control sequences out of 15000+600000
+ 41192 strings out of 493591
+ 801520 string characters out of 6143546
+ 906704 words of memory out of 5000000
+ 43876 multiletter control sequences out of 15000+600000
  11360 words of font info for 73 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 58i,16n,86p,10377b,1341s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,16n,86p,10377b,1340s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on SEISAN1.pdf (29 pages).
+Output written on SEISAN1.pdf (31 pages).
